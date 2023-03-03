@@ -110,12 +110,27 @@ To demo the app, register as a new user with an email and password.
 
 Contributions
 ------
-This project was a team effort between John Doll, Maia Dutta, Shaina Couch, Hazel Preza and Vanessa Spear. 
+This project was a team effort between John Doll, Maia Dutta, Shaina Couch, Hazel Preza and Vanessa Spear.
+
+#### Shaina Couch
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaibird)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaina-couch)
+
+#### Maia Dutta
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvdutta)
+
+#### John Doll
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JohnMDoll)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-m-doll)
+
+#### Hazel Preza
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segadreamgirl)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazelpreza)
 
 My direct contributions were:
 - Created models for wildlife_groups, park_wildlife, natural_attractions, park_natural_attractions
-- Created a photo view to handle requests from the client to view all photos, view photos by park, view photos by park and user, and create a photo
-- Contributed to refactoring of SQL queries from client version 1 to be able to seed database without having to create fixtures
+- Created views for photos, events, event_registration, campgrounds, and campground reservations to handle requests from the client to the server
+- Contributed to refactoring of SQL queries from client version 1 to be able to seed database without having to create fixtures in the Django REST framework
 - Created the parks list component and parks map component on the client landing page 
 - Reviewed pull requests and performed code reviews
 
