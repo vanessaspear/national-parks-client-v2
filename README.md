@@ -35,15 +35,15 @@ This full stack application was created as part of a group learning project and 
 
 #### Welcome to the National Parks app
 ------
-![](src/media/national_parks_landing_page.gif)
+![](src/media/gifs/national_parks_landing_page.gif)
 
 #### Add favorites and view them in your favorites hub
 ------
-![](src/media/national_parks_favorites_hub.gif)
+![](src/media/gifs/national_parks_favorites_hub.gif)
 
 #### Search blogs and create a blog 
 ------
-![](src/media/national_parks_blogs.gif)
+![](src/media/gifs/national_parks_blogs.gif)
 
 ### Technologies Used
 
