@@ -74,6 +74,7 @@ In the planning stages, we used DB Diagram to create an entity relationship diag
 - NPM
 - Leaflet
 - Bootstrap
+- Pillow
 
 Navigate to your workspace directory. 
 
@@ -123,14 +124,16 @@ This project was a team effort between John Doll, Maia Dutta, Shaina Couch, Haze
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JohnMDoll)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-m-doll)
 
-|<h3>Hazel Preza</h3>  |<h3>John Doll</h3>  |<h3>Maia Dutta</h3> |<h3>Shaina Couch</h3>|<h3>Vanessa Spear</h3> |
-|:--------------------:|:------------------:|:------------------:|:-------------------:|:---------------------:|
-|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segadreamgirl) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazelpreza) |       [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JohnMDoll) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-m-doll)|     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvdutta)|        [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaibird) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaina-couch)|      [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanessaspear)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessavspear) |
-|Photo carousel, site layout, CSS styling    |    Search & filter functions    |    Wildlife entries    |    Blogs page       |    Parks list component      |
-|Favoriting           |    Blog editing and deleting     |    Bootstrap incorporation and CSS refactoring   |Events page      |  Parks map component |
-|User Hub             |  Contributor to Events CRUD functions |   Login & Registration modals    |Campgrounds and Amenities entries    |    Reviewed pull requests and performed code reviews    |
-|Something with parks |     README           |                           |                   |                     |
- 
+#### Hazel Preza
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segadreamgirl)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazelpreza)
+
+My direct contributions were:
+- Created models for wildlife_groups, park_wildlife, natural_attractions, park_natural_attractions
+- Created views for photos, events, event_registration, campgrounds, and campground reservations to handle requests from the client to the server
+- Contributed to refactoring of SQL queries from client version 1 to be able to seed database without having to create fixtures in the Django REST framework
+- Created the parks list component and parks map component on the client landing page 
+- Reviewed pull requests and performed code reviews
 
 Author
 ------
